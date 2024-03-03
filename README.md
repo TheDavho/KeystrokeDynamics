@@ -3,7 +3,7 @@ Behavioral biometry using the dynamics of keystrokes.
 
 This program calculates the average time a key is down.
 
-- I wrote the same randomly generated paragraph two times into the program. We can clearly see the times are a bit similar.
+- I typed the same randomly generated paragraph two times into the program. We can clearly see the times are a bit similar.
 ```sql
 Key,AverageHoldTime
 a,0.12036086453331836
@@ -25,5 +25,5 @@ f,0.10400636990865066
 ```
 
 - of course, the more samples you obtain (that is the more text you write), the more accurate it will become
-- the letter E was written 99 times, and the two values (0.11015, 0.11189)are very close to each other
+- the letter E was written 99 times, and the two values (0.11015, 0.11189) are very close to each other
 - I haven't had the opportunity nor the will to test this on another person, I will do that later on
