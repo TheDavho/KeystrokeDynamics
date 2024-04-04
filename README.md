@@ -27,3 +27,6 @@ f,0.10400636990865066
 - of course, the more samples you obtain (that is the more text you write), the more accurate it will become
 - the letter E was written 99 times, and the two values (0.11015, 0.11189) are very close to each other
 - I haven't had the opportunity nor the will to test this on another person, I will do that later on
+
+## TODO:
+- I am planning to rewrite this when I have time, but using a different approach, to make it more reliable, so probably measuring how long it takes to press a certain key
