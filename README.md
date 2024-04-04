@@ -29,4 +29,4 @@ f,0.10400636990865066
 - I haven't had the opportunity nor the will to test this on another person, I will do that later on
 
 ## TODO:
-- Since this approach might not be as reliable as I intended,I am planning to rewrite this when I have time, but using a different approach, to make it more reliable, so probably measuring how long it takes to press a certain key
+- Since this approach might not be as reliable as I intended, I am planning to rewrite this when I have time, but using a different approach, to make it more reliable, so probably measuring how long it takes to press a certain key
